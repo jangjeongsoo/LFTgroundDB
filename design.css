@@ -1,5 +1,9 @@
 .mynav {
 	height: 100px;
 	background-color: green;
-	background-image:none;
+	background-image: none;
+}
+
+.mycontainer {
+	margin-top: 150px;
 }
