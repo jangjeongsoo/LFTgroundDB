@@ -1,0 +1,76 @@
+body{
+				padding-top:60px;
+				
+			}
+#right-side-box {
+			float:right;
+			width:40%;
+			
+			}
+	#right-side-box  button{
+		position:relative;
+		left:150px;
+		
+		}
+#left-side-box {
+			float:left;
+			width:60%;
+			}
+#tab-box {
+			background-color:#EAEAEA;
+			width:1000px;
+			
+			margin: 0px auto;
+			}
+#tab-box-in {
+	padding-bottom: 15px;
+}
+
+#view-box2 {
+	width: 970px;
+	position: relative;
+	left: 15px;
+	background-color:white;
+	}
+
+#view-box3	{
+	height: 500px;
+	background-color:white;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#comment {
+	width: 800px;
+	height: 300px;
+	position: relative;
+	left: 90px;
+	text-align:center;
+	}
+	
+
+
+.mynav {
+	height: 70px;
+	background-color: green;
+	background-image: none;
+}
+
+.mycon {
+	position:relative;
+	top:50px;
+}
+.tab-position {
+	position:relative;
+	top:100px;
+	}
+.view-box1 {
+	color:yellow;
+	padding: 10px;
+	background-color:white;
+	width: 95%;
+	margin: 0 auto;
+	height: 500px;
+	}
+
